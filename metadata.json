@@ -1,0 +1,10 @@
+{
+  "name": "Nyaya Sakhi",
+  "description": "A women-friendly legal education platform that simplifies the Bharatiya Nyaya Sanhita (BNS) 2023 with multilingual guides, interactive FIR assistants, quizzes, and the 'Nyaya Sakhi' AI supporter.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
